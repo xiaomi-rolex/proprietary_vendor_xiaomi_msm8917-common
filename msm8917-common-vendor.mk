@@ -703,7 +703,6 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     libloc_api_v02 \
-    libantradio \
     WfdService \
     CneApp \
     IWlanService \
